@@ -1,7 +1,3 @@
-Sure! Here is the updated README.md file with the technology icons resized to be rectangular and half the height:
-
----
-
 # ShortURL
 
 An API-based URL shortening web application built using the MERN stack (MongoDB, Express.js, React, and Node.js). This application allows users to shorten long URLs into concise, shareable links.
